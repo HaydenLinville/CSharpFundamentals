@@ -1,0 +1,8 @@
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Laptop\bin\Debug\Laptop.exe.config
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Laptop\bin\Debug\Laptop.exe
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Laptop\bin\Debug\Laptop.pdb
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Laptop\obj\Debug\Laptop.csproj.AssemblyReference.cache
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Laptop\obj\Debug\Laptop.csproj.SuggestedBindingRedirects.cache
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Laptop\obj\Debug\Laptop.csproj.CoreCompileInputs.cache
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Laptop\obj\Debug\Laptop.exe
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Laptop\obj\Debug\Laptop.pdb

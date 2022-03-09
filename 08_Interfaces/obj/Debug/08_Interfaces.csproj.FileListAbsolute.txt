@@ -1,0 +1,15 @@
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\08_Interfaces.dll
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\08_Interfaces.pdb
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\obj\Debug\08_Interfaces.csproj.AssemblyReference.cache
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\obj\Debug\08_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\obj\Debug\08_Interfaces.csproj.CopyComplete
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\obj\Debug\08_Interfaces.dll
+C:\Users\hdlin\OneDrive\Documents\ElevenFiftyProjects\New folder\1150CSharpFundamentals\1150CSharpFundamentals-main\08_Interfaces\obj\Debug\08_Interfaces.pdb

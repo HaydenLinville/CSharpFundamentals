@@ -1,0 +1,15 @@
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Calculator.dll
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Calculator.pdb
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\obj\Debug\Calculator.dll
+C:\ElevFift\1150CSharpFundamentals-main\1150CSharpFundamentals-main\Calculator\obj\Debug\Calculator.pdb
